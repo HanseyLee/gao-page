@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 高嘉琪
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jia Qi Gao
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jia Qi
+last_name: Gao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐱
 
 # Is this the primary user of the site?
 superuser: true
