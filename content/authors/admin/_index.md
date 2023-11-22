@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 高嘉琪
+title: GAOGAO
 
 # Name pronunciation (optional)
 name_pronunciation: Jia Qi Gao
