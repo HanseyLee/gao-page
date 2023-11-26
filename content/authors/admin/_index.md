@@ -25,8 +25,7 @@ organizations:
     url: https://sal.tongji.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-📱: +86 13817420372  |  📩: gao.jiaqi@tongji.edu.cn  |  📍: Shanghai, China
+bio: 📱: +86 13817420372  |  📩: gao.jiaqi@tongji.edu.cn  |  📍: Shanghai, China
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
