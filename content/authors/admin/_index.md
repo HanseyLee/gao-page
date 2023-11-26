@@ -1,6 +1,6 @@
 ---
 # Display name
-title: GAOGAO
+title: 高嘉琪
 
 # Name pronunciation (optional)
 name_pronunciation: Jia Qi Gao
@@ -25,47 +25,51 @@ organizations:
     url: https://sal.tongji.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+📱: +86 13817420372  |  📩: gao.jiaqi@tongji.edu.cn  |  📍: Shanghai, China
+# My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - SciTech Ethics
+  - Cultural Industry
+  - Digital Culture
+  - Cultural innovation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD 
+      institution: Tongji University
+      year: 2020-2024
+    - course: Master
+      institution: Tongji University
+      year: 2017-2020
+    - course: BSc 
+      institution: Tongji University
+      year: 2013-2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: SPSS
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        icon: bars
+        icon_pack: fas
+      - name: Excel
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Python
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 10
+        icon: python
+        icon_pack: fab
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -80,10 +84,10 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Dogs
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: dog
         icon_pack: fas
 
 # Social/Academic Networking
@@ -97,12 +101,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gao.jiaqi@tongji.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://au.cnki.net/author/personalInfo/000058374447
