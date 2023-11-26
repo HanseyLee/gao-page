@@ -3,7 +3,7 @@
 title: 高嘉琪
 
 # Name pronunciation (optional)
-name_pronunciation: Jia Qi Gao
+name_pronunciation: Gao Jia Qi
 
 # Full name (for SEO)
 first_name: Jia Qi
