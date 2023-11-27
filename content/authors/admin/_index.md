@@ -98,7 +98,7 @@ social:
     link: '13817420372'
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gao.jiaqi@tongji.edu.cn'
+    link: 'mailto:x@tongji.edu.cn'
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-📱: +86 13817420372  |  📩: gao.jiaqi@tongji.edu.cn  |  📍: Shanghai, China
+📱: +86 *******  |  📩:x@tongji.edu.cn  |  📍: Shanghai, China
 
 {style="text-align: justify;"}
